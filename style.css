@@ -1,0 +1,49 @@
+body {
+	background-color: #333;
+}
+
+.photo {
+	float: left;
+	height: 300px;
+	border-radius: 50%;
+	border: 10px solid BLACK;
+	margin-left: 2%;
+	margin-top: 1%;
+}
+
+/* Messages */
+
+.message {
+	clear: both;
+	line-height: 18px;
+	font-size: 20px;
+	font-family: 'Lucida Handwriting';
+	padding: 15px;
+	position: relative;
+	margin: 1%;
+	max-width: 85%;
+	word-wrap: break-word;
+}
+
+.message:after {
+	position: absolute;
+	content: "";
+	border-style: solid;
+}
+
+.message.received {
+	background: GREY;
+	border-radius: 0px 50px 50px 50px;
+	float: left;
+}
+
+.message.received:after {
+	border-width: 0px 10px 10px 0;
+	border-color: transparent GREY transparent transparent;
+	top: 0;
+	left: -10px;
+}
+
+.messageText {
+	color: WHITE;
+}
