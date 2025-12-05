@@ -4,4 +4,4 @@
 
 Student in Engineering & Computer Science at the University of Bologna.
 
-![](https://raw.githubusercontent.com/nickGhignatti/NickGhignatti/profile-summary-card-output/default/0-profile-details.svg)
+![](./profile-summary-card-output/default/0-profile-details.svg)
