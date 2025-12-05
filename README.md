@@ -1,1 +1,3 @@
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickGhignatti)](https://github.com/anuraghazra/github-readme-stats)
+## Nicolò Ghignatti
+
+![](https://komarev.com/ghpvc/?username=nickGhignatti&style=for-the-badge)
