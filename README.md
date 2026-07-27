@@ -4,6 +4,15 @@
 
 Student in Engineering & Computer Science at the University of Bologna.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickGhignatti/NickGhignatti/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NickGhignatti/NickGhignatti/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NickGhignatti/NickGhignatti/output/github-contribution-grid-snake.svg" />
+</picture>
 
-[![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NickGhignatti&show_icons=true&theme=nord&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickGhignatti&layout=compact&theme=nord&hide_border=true" />
+</p>
+
+![](https://streak-stats.demolab.com?user=NickGhignatti&theme=nord&hide_border=true)
