@@ -11,8 +11,8 @@ Student in Engineering & Computer Science at the University of Bologna.
 </picture>
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NickGhignatti&show_icons=true&theme=nord&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickGhignatti&layout=compact&theme=nord&hide_border=true" />
+  <img height="165em" src="./profile/stats.svg" />
+  <img height="165em" src="./profile/top-langs.svg" />
 </p>
 
 ![](https://streak-stats.demolab.com?user=NickGhignatti&theme=nord&hide_border=true)
