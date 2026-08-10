@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ghignatti Nicol&#242;'s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 17, Total Commits  (last year) : 578, Total PRs: 370, Total Issues: 80, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 17, Total Commits  (last year) : 578, Total PRs: 371, Total Issues: 80, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 91.05908881801253;
+        stroke-dashoffset: 91.05396720765803;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >370</text>
+      >371</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
